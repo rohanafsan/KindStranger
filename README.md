@@ -1,2 +1,2 @@
 # KindStranger
-A twitter bot that uses IBM's Tone Analyzer to extract emotions out of a users tweets 
+A twitter bot created in Python that uses IBM's Tone Analyzer to extract emotions from a users tweets. 
